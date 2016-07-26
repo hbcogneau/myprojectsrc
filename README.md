@@ -1,0 +1,2 @@
+# myprojectsrc
+full project repository
